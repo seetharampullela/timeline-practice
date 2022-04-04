@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.course-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+}
+.clock-duration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tags-para {
+  margin: 2px;
+  padding: 3px;
+  border: 1px solid black;
+}
